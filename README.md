@@ -5,6 +5,8 @@ This is a description section
 
 ## Introduction
 
+Introduction goes here
+
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -12,3 +14,4 @@ Sample website with plenty of files for demos
 ## Deployment
 
 ## How to contribute
+More modifications
